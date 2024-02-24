@@ -1,4 +1,4 @@
-# make_your_buger
+# Make Your Burguer
 
 ## Project setup
 ```
