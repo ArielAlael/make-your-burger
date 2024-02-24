@@ -1,4 +1,5 @@
 # Make Your Burger
+Projeto do curso de Vue 3 do Matheus Battisti - Hora de Codar
 
 ## Project setup
 ```
